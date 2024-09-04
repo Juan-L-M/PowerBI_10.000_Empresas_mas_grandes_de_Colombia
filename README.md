@@ -29,6 +29,10 @@ El informe está compuesto por varios visuales que permiten una exploración det
 3. **Gráfico de Áreas Apiladas (Treemap)**:
    - Representa las 10 empresas más grandes de Colombia, desglosadas por razón social, mostrando su contribución a las principales métricas financieras, especialmente el patrimonio.
 
+## [Link informe PowerBI](https://app.powerbi.com/groups/me/reports/63af2554-4371-4ef9-b9fe-86a3f25a9af9/46d45c9a8b8e7b245262?experience=power-bi)
+
+## [Link Conclusiones rápidas](https://app.powerbi.com/groups/me/insights/dafb614c-ecce-4cf7-89fe-edb3616b51d0?insightsSource=Desktop&experience=power-bi)
+
 ## Uso y Propósito
 
 Este informe es útil para analizar el panorama económico de las principales empresas colombianas, permitiendo identificar las más grandes en términos de ingresos, activos, pasivos y patrimonio. Es una herramienta poderosa para inversionistas, analistas financieros y cualquier persona interesada en entender la economía empresarial del país.
